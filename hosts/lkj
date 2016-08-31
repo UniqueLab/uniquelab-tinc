@@ -1,4 +1,4 @@
-Port = 655
+Port = 6655
 Subnet = 10.143.0.145/32
 
 -----BEGIN RSA PUBLIC KEY-----

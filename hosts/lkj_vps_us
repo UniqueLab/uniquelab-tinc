@@ -1,5 +1,6 @@
 Port = 655
 Subnet = 10.143.0.20/32
+Address = ss.henrylee20.cn
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA23aezq7PDk1jerHWmNQstQea6ZFxyKUlPLofgH0GJ4VCUwKfvoI0

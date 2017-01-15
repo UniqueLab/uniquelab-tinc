@@ -3,7 +3,7 @@
 tinc_name=`pwd | xargs basename`
 tinc_port="655"
 net_ip="10.143.0"
-master_hostname="uniquesc"
+master_hostname="uniquestudio"
 
 # judge whether continue
 echo "*** Run this script will clear your old configure. Continue (y/n)? ***"

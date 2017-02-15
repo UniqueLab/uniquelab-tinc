@@ -1,11 +1,11 @@
 # uniquesc-hosts
-unique sc hosts file for tinc
+tinc configure & host file of Unique Lab
 
 
 # Step to configure tinc
  ```bash
- $ git clone https://github.com/UniqueLab/uniquesc-hosts
- $ cd uniquesc-hosts
+ $ git clone https://github.com/UniqueLab/uniquelab-tinc
+ $ cd uniquelab-tinc
  $ ./generate.sh
  ```
 Chose a unique number from *101-254* for your own private address. 

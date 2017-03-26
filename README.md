@@ -17,5 +17,5 @@ Open a issue and submit your your host file.
 ### Arch
  ```bash
  $ systemctl enable tinc --now
- $ systemctl enable tinc@unqiuesc-hosts --now
+ $ systemctl enable tinc@unqiuelab-tinc --now
  ```

@@ -52,7 +52,7 @@ chmod +x tinc-up tinc-down
 # create host file, and generate key
 echo "Port = $tinc_port" > hosts/$hostname
 echo "Subnet = $net_ip.$subnet_ip/32" >> hosts/$hostname
-tincd -n $tinc_name -K
+/usr/local/sbin/tincd -n $tinc_name -K
 
 # end
 echo "Generate complete."
